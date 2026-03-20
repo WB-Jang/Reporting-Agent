@@ -1,0 +1,12 @@
+# Core
+nicegui>=1.4.0
+pydantic>=2.0
+python-dotenv>=1.0.0
+
+# LLM (optional — app runs without it using fallback mock responses)
+# Uncomment or install separately:
+# langchain-openai>=0.1.0
+# langchain-core>=0.2.0
+
+# Vector DB (optional — RAG features disabled when not installed)
+# chromadb>=0.5.0
