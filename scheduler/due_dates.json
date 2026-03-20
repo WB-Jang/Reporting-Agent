@@ -1,0 +1,26 @@
+[
+  {
+    "report_id": "fx5220_1st",
+    "report_label": "FX5220 (1차)",
+    "due_date": "2026-03-27",
+    "source": "manual",
+    "note": "1분기 외환 보고서 1차 제출",
+    "alerts_sent": {"d7": false, "d3": false, "d1": false}
+  },
+  {
+    "report_id": "radars_all",
+    "report_label": "RADARS (전체)",
+    "due_date": "2026-03-23",
+    "source": "manual",
+    "note": "RADARS B2901~B2915 전체",
+    "alerts_sent": {"d7": false, "d3": false, "d1": false}
+  },
+  {
+    "report_id": "bok_10days",
+    "report_label": "BOK 연체 10일",
+    "due_date": "2026-03-21",
+    "source": "manual",
+    "note": "한국은행 연체 10일 보고서",
+    "alerts_sent": {"d7": false, "d3": false, "d1": false}
+  }
+]
